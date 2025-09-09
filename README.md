@@ -1,79 +1,102 @@
-diff --git a/README.md b/README.md
-index c713228777680f89902f8d8ef84e9edaf0909644..67180af97095f2772b5cb63374acd28fcdc9d246 100644
---- a/README.md
-+++ b/README.md
-@@ -1,66 +1,66 @@
- <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer&center=true&width=500&height=45">
- </p>
- 
- <!-- Intro -->
- <h3 align="center">
-         <samp>&gt; Hey there!, I am
--                <b><a target="_blank" href="https://github.com/KyungUwU">Ho Ngoc An</a></b>
-+                <b><a target="_blank" href="https://github.com/ngocan-dev">Ho Ngoc An</a></b>
-         </samp>
- </h3>
- 
- <!-- About Section -->
- # About Me
- 
- <p>
-- <img align="right" width="350" src="https://raw.githubusercontent.com/KyungUwU/KyungUwU/main/assets/programmer.gif" alt="Coding gif" />
-+ <img align="right" width="350" src="https://raw.githubusercontent.com/ngocan-dev/ngocan-dev/main/assets/programmer.gif" alt="Coding gif" />
-   
-  💻 &emsp; Full-Stack Developer with a passion for building web applications and AI-powered solutions.<br/><br/>
-  🤖 &emsp; Skilled in Java, Spring Boot, React, MySQL, Docker, and exploring AI/ML integration.<br/><br/>
-  🎓 &emsp; BSc in Network Engineering at Ho Chi Minh International University (2021–2025).<br/><br/>
-  💼 &emsp; Former Backend Developer Intern at FPT Software & Solution Company.<br/><br/>
-  📧 &emsp; Reach me anytime: **hngocan.forwork@gmail.com**<br/><br/>
- 
- </p>
- 
- <br/>
- <br/>
- <br/>
- 
- ## 🛠 Skills
- 
- **Programming & Frameworks**
- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
- 
- **Other Tools**
- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
- 
- <br/>
- <hr/>
- <br/>
- 
- <!-- GitHub Stats Section -->
- <p align="center">
--  <a href="https://github.com/KyungUwU">
--    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyungUwU&theme=radical&border=7F3FBF&background=0D1117" alt="An's GitHub streak"/>
-+  <a href="https://github.com/ngocan-dev">
-+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngocan-dev&theme=radical&border=7F3FBF&background=0D1117" alt="An's GitHub streak"/>
-   </a>
- </p>
- 
- <p align="center">
--  <a href="https://github.com/KyungUwU">
--    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KyungUwU&theme=radical" alt="An's GitHub Contribution"/>
-+  <a href="https://github.com/ngocan-dev">
-+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngocan-dev&theme=radical" alt="An's GitHub Contribution"/>
-   </a>
- </p>
- 
- <a> 
--    <a href="https://github.com/KyungUwU"><img alt="An's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=KyungUwU&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
--  <a href="https://github.com/KyungUwU"><img alt="An's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=KyungUwU&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-+    <a href="https://github.com/ngocan-dev"><img alt="An's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ngocan-dev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-+  <a href="https://github.com/ngocan-dev"><img alt="An's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ngocan-dev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-   <br/>
- </a>
+     1  <div align="center">
+     2    <a href="https://discord.com/users/1291013382849167542">
+     3      <img src="https://lanyard.cnrad.dev/api/467540097772945409?showDisplayName=true&idleMessage=Just%20a%20normal%20deve
+loper" alt="Discord Presence"/>
+     4    </a>
+     5  </div>
+     6
+     7  ---
+     8
+     9  ## 🚀 About Me
+    10
+    11  I'm **Ho Ngoc An**, a passionate **Full-Stack Developer** with a focus on **Web Development and AI integration**. I enjo
+y building scalable, user-friendly applications and exploring new technologies to turn ideas into reality.
+    12
+    13  - 🔭 Currently building projects using **React, Spring Boot, and AI tools**
+    14  - 🌱 Learning **Advanced React Patterns, System Design, and AI-Enhanced Web Applications**
+    15  - 💬 Ask me about **Java, Spring Boot, React, TypeScript, MySQL, Docker, AI, and Modern Web Development**
+    16  - 📫 Reach me at: **hngocan.forwork@gmail.com**
+    17  - ⚡ Fun fact: I love debugging tricky issues late at night with a cup of coffee
+    18
+    19  ---
+    20
+    21  ## 🛠️ Tech Stack
+    22
+    23  ### Frontend
+    24  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    25  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    26  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7D
+F1E)
+    27  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+    28  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    29  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=wh
+ite)
+    30
+    31  ### Backend
+    32  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+    33  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+    34  ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+    35  ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+    36  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+    37  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+    38  ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+    39  ![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+    40
+    41  ### Tools & Others
+    42  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+    43  ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+    44  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    45  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    46  ![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+    47
+    48  ---
+    49
+    50  ## 📊 GitHub Stats
+    51
+    52  <div align="center">
+    53    <img src="https://github-readme-stats.vercel.app/api?username=ngocan-dev&theme=omni&hide_border=false&include_all_comm
+its=true&count_private=false" alt="GitHub Stats" />
+    54    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngocan-dev&theme=omni&hide_border=false" alt="GitHub
+Streak" />
+    55  </div>
+    56
+    57  <div align="center">
+    58    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocan-dev&theme=omni&hide_border=false&inclu
+de_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+    59  </div>
+    60
+    61  ---
+    62
+    63  ## 📈 Current Focus
+    64
+    65  - 🔥 Building **scalable web applications and AI-enhanced systems**
+    66  - 🎯 Implementing **advanced React patterns and performance optimizations**
+    67  - 🧠 Learning **system design and distributed systems**
+    68  - 🎨 Creating **beautiful, accessible user interfaces**
+    69  - 📚 Contributing to **open-source projects**
+    70
+    71  ---
+    72
+    73  ## 🤝 Let's Connect
+    74
+    75  <div align="center">
+    76    <a href="https://discord.com/users/467540097772945409">
+    77      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord
+"/>
+    78    </a>
+    79    <a href="https://www.linkedin.com/in/hngocan/">
+    80      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linke
+dIn"/>
+    81    </a>
+    82    <a href="mailto:hngocan.forwork@gmail.com">
+    83      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    84    </a>
+    85  </div>
+    86
+    87  <div align="center">
+    88    <img src="https://komarev.com/ghpvc/?username=ngocan-dev&style=flat-square&color=blue" alt="Profile Views"/>
+    89
+    90    **Thanks for visiting my profile! Let's build something amazing together! 🚀**
+    91  </div>
