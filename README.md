@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm **Ho Ngoc An**, a passionate **Full-Stack Developer** with a focus on **Web Development and AI integration**. I enjoy building scalable, user-friendly applications and exploring new technologies to turn ideas into reality.  
 
@@ -13,7 +13,6 @@ I'm **Ho Ngoc An**, a passionate **Full-Stack Developer** with a focus on **Web 
 - 🌱 Learning **Advanced React Patterns, System Design, and AI-Enhanced Web Applications**  
 - 💬 Ask me about **Java, Spring Boot, React, TypeScript, MySQL, Docker, AI, and Modern Web Development**  
 - 📫 Reach me at: **hngocan.forwork@gmail.com**  
-- ⚡ Fun fact: I love debugging tricky issues late at night with a cup of coffee  
 
 ---
 
@@ -55,16 +54,6 @@ I'm **Ho Ngoc An**, a passionate **Full-Stack Developer** with a focus on **Web 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocan-dev&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
-
----
-
-## 📈 Current Focus
-
-- 🔥 Building **scalable web applications and AI-enhanced systems**  
-- 🎯 Implementing **advanced React patterns and performance optimizations**  
-- 🧠 Learning **system design and distributed systems**  
-- 🎨 Creating **beautiful, accessible user interfaces**  
-- 📚 Contributing to **open-source projects**  
 
 ---
 
