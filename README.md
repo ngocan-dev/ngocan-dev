@@ -34,7 +34,7 @@ I'm **Ho Ngoc An**, a passionate **Full-Stack Developer** with a focus on **Web 
         <br>Node.js
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NestJS" />
         <br>NestJS
       </td>
       <td align="center" width="96">
