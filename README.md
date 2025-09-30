@@ -132,9 +132,4 @@ I'm **Ho Ngoc An**, a passionate **Full-Stack Developer** with a focus on **Web 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ngocan-dev&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
-
-
-
-  
-  **Thanks for visiting my profile! Let's build something amazing together! 🚀**
 </div>
