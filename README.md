@@ -118,7 +118,7 @@ I'm **Ho Ngoc An**, a passionate **Full-Stack Developer** with a focus on **Web 
 <h3 align="center">🌐 Let's Connect</h3>
 <p align="center">
     <a href="https://discord.com/users/467540097772945409" target="_blank">
-        <img src="https://toppng.com/uploads/preview/discord-png-logo-blue-discord-logo-11562952349iwzz2zzubv.png" width="40" height="40" alt="Discord" />
+        <img src="[https://toppng.com/uploads/preview/discord-png-logo-blue-discord-logo-11562952349iwzz2zzubv.png](https://static.vecteezy.com/system/resources/previews/018/930/718/original/discord-logo-discord-icon-transparent-free-png.png)" width="40" height="40" alt="Discord" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/hngocan/" target="_blank">
