@@ -111,15 +111,6 @@ I'm **Ho Ngoc An**, a passionate **Full-Stack Developer** with a focus on **Web 
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngocan-dev&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320&title_color=007ACC&text_color=007ACC" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ngocan-dev&theme=omni&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngocan-dev&theme=omni&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngocan-dev&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
 ---
 
 <h3 align="center">🌐 Let's Connect</h3>
