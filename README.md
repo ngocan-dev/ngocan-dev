@@ -118,7 +118,7 @@ I'm **Ho Ngoc An**, a passionate **Full-Stack Developer** with a focus on **Web 
 <h3 align="center">🌐 Let's Connect</h3>
 <p align="center">
     <a href="https://discord.com/users/467540097772945409" target="_blank">
-        <img src="https://upload.wikimedia.org/vi/9/98/Discord_logo.svg" width="40" height="40" alt="Discord" />
+        <img src="https://toppng.com/uploads/preview/discord-png-logo-blue-discord-logo-11562952349iwzz2zzubv.png" width="40" height="40" alt="Discord" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/hngocan/" target="_blank">
@@ -129,7 +129,7 @@ I'm **Ho Ngoc An**, a passionate **Full-Stack Developer** with a focus on **Web 
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40" alt="Gmail" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.facebook.com/hoan.vu.192368" target="_blank">
+    <a href="https://www.facebook.com/kyungdev/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" width="40" height="40" alt="Facebook" />
     </a>
 </p>
@@ -137,6 +137,7 @@ I'm **Ho Ngoc An**, a passionate **Full-Stack Developer** with a focus on **Web 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ngocan-dev&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
+
 
 
   
