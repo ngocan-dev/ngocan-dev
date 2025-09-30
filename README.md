@@ -117,16 +117,19 @@ I'm **Ho Ngoc An**, a passionate **Full-Stack Developer** with a focus on **Web 
 
 ## Let's Connect
 
-<div align="center">
-  <a href="https://discord.com/users/467540097772945409">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hngocan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  <a href="mailto:hngocan.forwork@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
+<p align="center">
+    <a href="mailto:hngocan.forwork@gmail.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40" alt="Gmail" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.facebook.com/hoan.vu.192368" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" width="40" height="40" alt="Facebook" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://discord.com/users/467540097772945409" target="_blank">
+        <img src="https://upload.wikimedia.org/vi/9/98/Discord_logo.svg" width="40" height="40" alt="Discord" />
+    </a>
+</p>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ngocan-dev&style=flat-square&color=blue" alt="Profile Views"/>
   
