@@ -16,7 +16,7 @@ I'm **Ho Ngoc An**, a passionate **Full-Stack Developer** with a focus on **Web 
 
 ---
 
-<h3>🚀 Languages & Tools</h3>
+<h3>Languages & Tools</h3>
 
 <div align="center">
   <table>
